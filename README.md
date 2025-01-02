@@ -2,7 +2,7 @@ NAME: DAKSHA C
 
 REF NO: 24006768
 
-**EXPERIMENT NO: 3 # HALF_ADDER_SUBTRACTOR**
+**EXPERIMENT NO: 3 HALF_ADDER_SUBTRACTOR**
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -64,13 +64,7 @@ Figure -02 HALF Subtractor
 
 **RTL SCHEMATIC:**
 
-**Output/TIMING Waveform Half_adder** 
-
-![4](https://github.com/user-attachments/assets/dcadfe86-501c-43ae-b63d-d86736322ebb)
-
-**Half_subractor**
-
-![5](https://github.com/user-attachments/assets/5f68271a-5380-4064-907e-1f48379be755)
+![1000062787](https://github.com/user-attachments/assets/95bd7a14-d5d6-40df-8cdc-8ec2f77681be)
 
 **RESULT:**
 
