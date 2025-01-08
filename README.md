@@ -2,9 +2,9 @@ NAME: DAKSHA C
 
 REF NO: 24006768
 
-**EXPERIMENT NO: 3 HALF_ADDER_SUBTRACTOR**
+**EXPERIMENT NO: 3 HALF ADDER AND HALF SUBTRACTOR**
 
-Implementation-of-Half-Adder-and-Half Subtractor-circuit
+
 
 **AIM:**
 
